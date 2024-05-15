@@ -15,7 +15,7 @@ This is a simple React Native application that allows users to generate a grid o
 1. Clone the repository:
 
    ```bash
-   git clone [<repository-url>](https://github.com/dipakMTN/EvinceTest.git)
+   git clone https://github.com/dipakMTN/EvinceTest.git
    ```
 
 2. Navigate to the project directory:
